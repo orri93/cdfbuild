@@ -8,5 +8,8 @@
 # Visual Studio Code
 /.vscode/
 
+# CMake
+/CMakeSettings.json
+
 # Build
 /build/
